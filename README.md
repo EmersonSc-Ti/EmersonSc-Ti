@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, me chamo Emerson 👋
 
-<!--
-**EmersonSc-Ti/EmersonSc-Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Hoje busco estágio na área de TI
+- Sou estudante front end e faço bacharel em Eng.Software
+- 📫 contate-me developer.emersonsc@gmail.com
+- 😄 Pronouns: ele/dele
+<a href="https://github.com/EmersonSc-Ti/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EmersonSc-Ti&show_icons=true&theme=dracula"/>
+  <a href="https://github.com/EmersonSc-Ti/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmersonSc-Ti&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320" />
+</a>
